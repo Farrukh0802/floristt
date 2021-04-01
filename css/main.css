@@ -50,13 +50,13 @@ section, header, footer{
 }
 .content{
     max-width: 540px;
-    margin-top: 15%;
+    margin-top: 16%;
 }
 .content > h1{
     font-family: "Erotique-Regular", sans-serif;
     font-weight: normal;
-    font-size: 48px;
-    line-height: 64px;
+    font-size: 40px;
+    line-height: 56px;
     color: #333333;   
 }
 .btn__main{
